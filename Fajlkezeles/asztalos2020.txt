@@ -1,0 +1,19 @@
+Név;Neme;Részleg;Belépés;Bér
+Devon Mihály;férfi;asztalosműhely;2007;161533
+Kolompár Gáspár;férfi;asztalosműhely;2003;253794
+Léc Elek;férfi;asztalosműhely;2001;220506
+Alsófalvi Amália;nő;asztalosműhely;2017;130090
+Tóth Imre;férfi;asztalosműhely;1988;285381
+Égerházi Zsanett;nő;asztalosműhely;1993;295283
+Kozlovszky Jenő;férfi;asztalosműhely;2018;248206
+Nájt Mihály;férfi;asztalosműhely;2004;344839
+Bán Mihály;férfi;asztalosműhely;1983;191563
+Medgyessi Pál;férfi;asztalosműhely;1999;282749
+Alsófalvi Amália;nő;asztalosműhely;1998;343647
+Brazil Béla;férfi;asztalosműhely;2001;299524
+Balogh Gábor;férfi;asztalosműhely;1988;193119
+Gold Mária;nő;asztalosműhely;1998;286186
+Lakatos Lujza;nő;asztalosműhely;2005;316271
+Ormosi Teréz;nő;asztalosműhely;1971;104671
+Fekete Frigyes;férfi;asztalosműhely;1997;130135
+Kovács János;férfi;asztalosműhely;1986;212865
